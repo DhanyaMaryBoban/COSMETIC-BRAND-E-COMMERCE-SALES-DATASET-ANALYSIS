@@ -6,7 +6,7 @@ This project focuses on analyzing online cosmetic sales in India. The dataset pr
 
 ## 🎯 Project Objectives
 
-- Understand customer purchasing behavior
+- Understand customer purchasing behaviour
 - Identify top-performing products and variants
 - Analyze regional and city-level sales contributions
 - Explore sales trends over time
