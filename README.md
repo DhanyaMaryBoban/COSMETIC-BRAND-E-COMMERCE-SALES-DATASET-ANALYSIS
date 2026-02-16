@@ -18,7 +18,7 @@ This project focuses on analyzing online cosmetic sales in India. The dataset pr
 
 ## 🛠️ Tools Used
 - Language: Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 ## 🧹 Data Cleaning and Preprocessing
 - Steps performed:
@@ -29,7 +29,6 @@ This project focuses on analyzing online cosmetic sales in India. The dataset pr
   
 ## 📊 Exploratory Data Analysis (EDA)
 For visualization, the following techniques were used:
-- Histogram
 - Line chart
 - Boxplot
 - Heatmap
@@ -37,14 +36,13 @@ For visualization, the following techniques were used:
 ## 🔍 Key Insights
 - Unique customers: 2012, with 76% repeat buyers → strong loyalty base
 - Order status: 5,788 delivered (high satisfaction), 2,329 in transit (needs monitoring)
-- Order size: Majority prefer single-item purchases
 - Top product: Insight Glitter Purse (highest AOV ₹800)
 - Regional leader: Datia city dominates sales; West Zone shows highest average spend
 - Time trend: October peak sales (festive season), sharp drop in November
 - Product variants: Prime It Up most popular across all skin tones; Mini Power Matte Lipcolour highly repeated
 
 ## ✅ Recommendations
-- Launch loyalty programs and personalized offers to convert one-time buyers.
+- Launch loyalty programs and personalized offers to encourage loyal buyers.
 - Strengthen courier partnerships and enable real-time tracking to reduce delays.
 - Expand beyond Datia and grow secondary cities/zones to reduce dependency.
 - Build campaigns around hero products (Prime It Up, Mini Power Matte Lipcolour) to boost AOV.
